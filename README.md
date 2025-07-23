@@ -14,7 +14,7 @@ A robust command-line interface (CLI) To-Do List application developed in C, sho
 A quick walkthrough of the To-Do List Manager in action:
 
 ![To-Do List Manager Demo](https://github.com/user-attachments/assets/69ca8fee-a70b-4a93-8059-45546fe22318)
-*(This should be your GIF. If the last link `69ca8fee-a70b-4a93-8059-45546fe22318` is your GIF, then this line is perfect!)*
+
 
 ## Screenshots
 Visual examples of the application's interface:
