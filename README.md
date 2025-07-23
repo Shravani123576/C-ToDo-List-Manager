@@ -21,14 +21,14 @@ Visual examples of the application's interface:
 
 ### Main Menu
 ![Main Menu Screenshot](https://github.com/user-attachments/assets/6d120e21-54a6-4e56-8f43-8b4ace892f37)
-*(This is your first screenshot)*
+
 
 
 ### Viewing Tasks
 ![Viewing Tasks Screenshot](https://github.com/user-attachments/assets/4b863ce0-b7b6-43e9-8d75-1d1009b22d72)
-*(This is your second screenshot. Make sure it shows tasks, perhaps some completed ones.)*
 
-*(If you have more screenshots, add them here with their own headings and links.)*
+
+
 
 ## How to Compile and Run
 This project requires a C compiler (like GCC).
@@ -64,7 +64,7 @@ This project was instrumental in building my foundational understanding of C pro
 This experience has been a cornerstone in my coding journey, building a strong base as I continue my studies in my 2nd year.
 
 ---
-*Developed by Shravani [Shravani Barhanpurkar]
-*Connect with me on LinkedIn: [www.linkedin.com/in/
+Developed by Shravani [Shravani Barhanpurkar]
+Connect with me on LinkedIn: [www.linkedin.com/in/
 shravani-barhanpurkar-1a78a0319
 ]
